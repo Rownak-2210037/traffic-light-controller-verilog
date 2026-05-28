@@ -54,7 +54,6 @@ The objective of this project is to design and simulate a digital traffic light 
 * Icarus Verilog (iverilog)
 * VS Code
 
-
 ## Compilation and Simulation
 
 ### Compile
@@ -71,10 +70,6 @@ vvp traffic_sim > output.txt
 
 ## Sample Simulation Output
 
-================================================
-   Traffic Light Controller FSM - Simulation
-================================================
-
 [TEST 1] Applying Reset...
 [MONITOR] Time=0 ns | RED=1 GREEN=0 YELLOW=0
 
@@ -89,7 +84,7 @@ Cycle 7 | R=0 G=1 Y=0
 
 [MONITOR] Time=105000 ns | RED=0 GREEN=0 YELLOW=1
 
-## Simulation Screenshot
+## Simulation output
 
 [output.txt](output.txt)
 
