@@ -91,7 +91,7 @@ Cycle 7 | R=0 G=1 Y=0
 
 ## Simulation Screenshot
 
-![Simulation Output](simulation_output.png)
+[output.txt](output.txt)
 
 
 ## Learning Outcomes
