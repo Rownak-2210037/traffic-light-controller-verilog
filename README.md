@@ -107,8 +107,8 @@ Through this project, the following concepts were learned:
 
 ## Author
 
-Rownak
-Electrical & Computer Engineering
+Md. Rownak Mridha Mahi
+Department of Electrical & Computer Engineering
 RUET
 
 
