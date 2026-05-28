@@ -71,7 +71,6 @@ vvp traffic_sim > output.txt
 
 ## Sample Simulation Output
 
-```text
 ================================================
    Traffic Light Controller FSM - Simulation
 ================================================
